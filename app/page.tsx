@@ -1,5 +1,5 @@
 
-import PamaskoGenerator from "@/src/PamaskoGenerator";
+import PamaskoGenerator from "@/src/components/PamaskoGenerator";
  
 export default function Home() {
   return (
